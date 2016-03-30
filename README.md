@@ -1,5 +1,5 @@
-IATI Traceability 
-=================
+IPython Notebooks for inspecting IATI data
+==========================================
 
 ```
 virtualenv --python=/usr/bin/python3 .ve
