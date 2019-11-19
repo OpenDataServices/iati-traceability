@@ -1,4 +1,5 @@
 ipython[notebook]
 ipy-table
+numpy
 requests
 vcrpy
